@@ -1,5 +1,6 @@
 # Capex Budget Optimizer
 
+   **Live app:** https://capex-budget-optimizer-vijay.streamlit.app/
 Which capital projects should a business fund over the next three years, given a fixed budget,
 strategic targets and real operating rules? This project answers that with integer programming in
 Python (PuLP + HiGHS), then stress-tests the answer with Monte Carlo simulation.
