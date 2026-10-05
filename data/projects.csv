@@ -1,0 +1,41 @@
+id,name,branch,pillar,cost_y1,cost_y2,cost_y3,return_low,return_base,return_high,mandatory,requires,exclusive_group,validate_in_anylogistix
+P01,Yard management system with RFID unit tracking,Surrey,Digital,180,60,20,140,260,380,0,,,0
+P02,RFID rollout to all branches,Multi,Digital,0,150,80,90,200,320,0,P01,,0
+P03,Telematics integration for rental fleet,Calgary,Digital,120,40,0,80,170,260,0,,,0
+P04,Parts inventory optimization software,Surrey,Digital,90,30,30,120,210,300,0,,,0
+P05,Mobile inspection app (digital checklists),Multi,Digital,40,20,10,50,90,130,0,,,0
+P06,Electric forklifts (x4),Surrey,Sustainability,0,220,0,20,60,100,0,P07,G3,0
+P07,EV charging infrastructure,Surrey,Sustainability,110,0,0,5,15,30,0,,,0
+P08,Solar panels on shop roof,Kelowna,Sustainability,0,260,0,40,90,130,0,,,0
+P09,LED lighting retrofit (3 branches),Multi,Sustainability,90,0,0,60,85,110,0,,,0
+P10,Wash bay water recycling,Kamloops,Sustainability,140,0,0,20,45,70,0,,,0
+P11,Electric service trucks (x2),Calgary,Sustainability,0,0,240,15,50,90,0,,,0
+P12,Pedestrian and vehicle segregation barriers,Surrey,Safety,75,0,0,0,10,20,1,,,0
+P13,Overhead crane upgrade (failed inspection),Prince George,Safety,160,0,0,10,30,50,1,,,0
+P14,Cameras and proximity sensors on yard loaders,Multi,Safety,60,40,0,20,40,70,0,,,0
+P15,Fall protection on wash bays,Edmonton,Safety,50,0,0,0,5,15,0,,,0
+P16,Shop exhaust ventilation upgrade,Kamloops,Safety,0,95,0,5,20,35,0,,,0
+P17,Yard re-layout and 5S (from time studies),Surrey,OpEx,45,15,0,90,150,210,0,,,0
+P18,Two additional service bays,Edmonton,Growth,0,300,150,180,350,500,0,,,0
+P19,Mezzanine racking in parts warehouse,Calgary,OpEx,130,0,0,70,120,170,0,,G1,0
+P20,Lease overflow warehouse,Calgary,OpEx,60,60,60,60,110,150,0,,G1,0
+P21,After-hours parts lockers,Multi,Growth,50,30,0,40,80,130,0,,,0
+P22,New regional parts depot,Kamloops,Growth,0,350,200,150,320,520,0,,G2,1
+P23,Express parts shuttle (truck and fixed route),Kamloops,Growth,80,40,40,80,150,220,0,,G2,1
+P24,Satellite yard expansion,Prince George,Growth,0,0,280,90,200,330,0,,,1
+P25,Rental fleet GPS geofencing,Prince George,Digital,35,15,0,30,60,90,0,,,0
+P26,Operations BI dashboards,Multi,Digital,30,20,10,40,80,120,0,,,0
+P27,Automated parts reorder (min/max) integration,Multi,OpEx,60,20,0,80,130,190,0,P04,,0
+P28,Tool crib vending machines,Edmonton,OpEx,40,0,0,20,45,70,0,,,0
+P29,Shop scheduling software,Calgary,OpEx,70,30,0,60,110,160,0,,,0
+P30,Operator training simulator,Surrey,Growth,0,140,0,30,80,140,0,,,0
+P31,Showroom refresh,Kelowna,Growth,0,0,180,40,110,200,0,,,0
+P32,Compressed air leak program,Multi,Sustainability,25,0,0,25,40,55,0,,,0
+P33,Heat pump HVAC replacement,Edmonton,Sustainability,0,0,200,20,55,90,0,,,0
+P34,Yard paving and drainage fix,Kamloops,OpEx,0,180,0,30,60,90,0,,,0
+P35,Diesel forklift replacement (like for like),Surrey,OpEx,0,220,0,30,55,80,0,,G3,0
+P36,Barcode labelling of attachments,Multi,Digital,25,10,0,30,55,80,0,,,0
+P37,Predictive maintenance pilot on rental fleet,Calgary,Digital,0,90,60,20,100,220,0,P03,,0
+P38,Customer portal for parts orders,Multi,Growth,0,120,60,60,160,280,0,,,0
+P39,Spill containment upgrade,Prince George,Safety,40,0,0,0,5,10,0,,,0
+P40,Second wash bay,Edmonton,Growth,0,0,160,40,90,140,0,,,0

@@ -1,0 +1,41 @@
+id,name,branch,pillar,cost_total,return_base,selection_frequency
+P04,Parts inventory optimization software,Surrey,Digital,150,210,1.0
+P33,Heat pump HVAC replacement,Edmonton,Sustainability,200,55,1.0
+P27,Automated parts reorder (min/max) integration,Multi,OpEx,80,130,1.0
+P24,Satellite yard expansion,Prince George,Growth,280,200,1.0
+P17,Yard re-layout and 5S (from time studies),Surrey,OpEx,60,150,1.0
+P13,Overhead crane upgrade (failed inspection),Prince George,Safety,160,30,1.0
+P11,Electric service trucks (x2),Calgary,Sustainability,240,50,1.0
+P12,Pedestrian and vehicle segregation barriers,Surrey,Safety,75,10,1.0
+P01,Yard management system with RFID unit tracking,Surrey,Digital,260,260,0.99
+P05,Mobile inspection app (digital checklists),Multi,Digital,70,90,0.96
+P09,LED lighting retrofit (3 branches),Multi,Sustainability,90,85,0.9533333333333334
+P18,Two additional service bays,Edmonton,Growth,450,350,0.95
+P36,Barcode labelling of attachments,Multi,Digital,35,55,0.9466666666666667
+P02,RFID rollout to all branches,Multi,Digital,230,200,0.94
+P03,Telematics integration for rental fleet,Calgary,Digital,160,170,0.9366666666666666
+P26,Operations BI dashboards,Multi,Digital,60,80,0.9333333333333333
+P38,Customer portal for parts orders,Multi,Growth,180,160,0.93
+P32,Compressed air leak program,Multi,Sustainability,25,40,0.86
+P31,Showroom refresh,Kelowna,Growth,180,110,0.85
+P37,Predictive maintenance pilot on rental fleet,Calgary,Digital,150,100,0.8233333333333334
+P40,Second wash bay,Edmonton,Growth,160,90,0.7866666666666666
+P25,Rental fleet GPS geofencing,Prince George,Digital,50,60,0.77
+P29,Shop scheduling software,Calgary,OpEx,100,110,0.7633333333333333
+P21,After-hours parts lockers,Multi,Growth,80,80,0.6766666666666666
+P16,Shop exhaust ventilation upgrade,Kamloops,Safety,95,20,0.67
+P14,Cameras and proximity sensors on yard loaders,Multi,Safety,100,40,0.5966666666666667
+P39,Spill containment upgrade,Prince George,Safety,40,5,0.5933333333333334
+P28,Tool crib vending machines,Edmonton,OpEx,40,45,0.56
+P22,New regional parts depot,Kamloops,Growth,550,320,0.52
+P30,Operator training simulator,Surrey,Growth,140,80,0.5033333333333333
+P23,Express parts shuttle (truck and fixed route),Kamloops,Growth,160,150,0.4066666666666667
+P20,Lease overflow warehouse,Calgary,OpEx,180,110,0.2866666666666667
+P15,Fall protection on wash bays,Edmonton,Safety,50,5,0.14666666666666667
+P19,Mezzanine racking in parts warehouse,Calgary,OpEx,130,120,0.10666666666666667
+P08,Solar panels on shop roof,Kelowna,Sustainability,260,90,0.05333333333333334
+P34,Yard paving and drainage fix,Kamloops,OpEx,180,60,0.04
+P07,EV charging infrastructure,Surrey,Sustainability,110,15,0.0
+P06,Electric forklifts (x4),Surrey,Sustainability,220,60,0.0
+P10,Wash bay water recycling,Kamloops,Sustainability,140,45,0.0
+P35,Diesel forklift replacement (like for like),Surrey,OpEx,220,55,0.0

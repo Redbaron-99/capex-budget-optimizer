@@ -1,0 +1,5 @@
+scenario,projects,planned_spend_k,return_base_k,return_p10_k,prob_over_budget,real_world_rule_violations,violations
+1. ROI only (no rules),25,3975.0,3380.0,3199,0.994,6,mandatory P12 missing; mandatory P13 missing; group G1 has 2 options; group G2 has 2 options; pillar Safety 50 < 350; pillar Sustainability 315 < 500
+2. ROI + pillar minimums (standard),25,3960.0,3115.0,2941,0.991,2,mandatory P12 missing; group G2 has 2 options
+3. Improved model (all rules),27,3970.0,3105.0,2954,0.996,0,
+4. Improved + 10% contingency,24,3595.0,2810.0,2659,0.127,0,

@@ -1,0 +1,25 @@
+id,name,branch,pillar,cost_y1,cost_y2,cost_y3,cost_total,return_base
+P01,Yard management system with RFID unit tracking,Surrey,Digital,180,60,20,260,260
+P02,RFID rollout to all branches,Multi,Digital,0,150,80,230,200
+P03,Telematics integration for rental fleet,Calgary,Digital,120,40,0,160,170
+P04,Parts inventory optimization software,Surrey,Digital,90,30,30,150,210
+P05,Mobile inspection app (digital checklists),Multi,Digital,40,20,10,70,90
+P09,LED lighting retrofit (3 branches),Multi,Sustainability,90,0,0,90,85
+P11,Electric service trucks (x2),Calgary,Sustainability,0,0,240,240,50
+P12,Pedestrian and vehicle segregation barriers,Surrey,Safety,75,0,0,75,10
+P13,Overhead crane upgrade (failed inspection),Prince George,Safety,160,0,0,160,30
+P16,Shop exhaust ventilation upgrade,Kamloops,Safety,0,95,0,95,20
+P17,Yard re-layout and 5S (from time studies),Surrey,OpEx,45,15,0,60,150
+P18,Two additional service bays,Edmonton,Growth,0,300,150,450,350
+P23,Express parts shuttle (truck and fixed route),Kamloops,Growth,80,40,40,160,150
+P24,Satellite yard expansion,Prince George,Growth,0,0,280,280,200
+P25,Rental fleet GPS geofencing,Prince George,Digital,35,15,0,50,60
+P26,Operations BI dashboards,Multi,Digital,30,20,10,60,80
+P27,Automated parts reorder (min/max) integration,Multi,OpEx,60,20,0,80,130
+P30,Operator training simulator,Surrey,Growth,0,140,0,140,80
+P31,Showroom refresh,Kelowna,Growth,0,0,180,180,110
+P33,Heat pump HVAC replacement,Edmonton,Sustainability,0,0,200,200,55
+P36,Barcode labelling of attachments,Multi,Digital,25,10,0,35,55
+P37,Predictive maintenance pilot on rental fleet,Calgary,Digital,0,90,60,150,100
+P38,Customer portal for parts orders,Multi,Growth,0,120,60,180,160
+P39,Spill containment upgrade,Prince George,Safety,40,0,0,40,5

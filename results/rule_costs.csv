@@ -1,0 +1,9 @@
+rule,return_without_rule,cost_of_rule
+Budget carryover (rule ON adds value),3060.0,-45.0
+Mandatory safety projects,3200.0,95.0
+Project dependencies,3105.0,0.0
+Mutually exclusive alternatives,3115.0,10.0
+Branch fairness cap,3105.0,0.0
+Safety minimum spend,3165.0,60.0
+Sustainability minimum spend,3155.0,50.0
+Digital minimum spend,3105.0,0.0

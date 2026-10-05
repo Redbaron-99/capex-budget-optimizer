@@ -1,0 +1,10 @@
+{
+  "baseline_return": 3115.0,
+  "baseline_violations": 2,
+  "improved_return": 3105.0,
+  "improved_overspend_risk": 0.996,
+  "reserve10_return": 2810.0,
+  "reserve10_overspend_risk": 0.127,
+  "depot_freq": 0.52,
+  "shuttle_freq": 0.4066666666666667
+}
